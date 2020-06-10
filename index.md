@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PAge in construction...
+Page in construction...
 
 # About
 
