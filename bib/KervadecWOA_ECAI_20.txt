@@ -1,0 +1,6 @@
+@article{kervadec2019weak,
+  title={Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks},
+  author={Kervadec, Corentin and Antipov, Grigory and Baccouche, Moez and Wolf, Christian},
+  journal={arXiv preprint arXiv:1912.03063},
+  year={2019}
+}
