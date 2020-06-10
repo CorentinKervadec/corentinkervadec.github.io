@@ -31,37 +31,32 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                 <tbody>
                 <tr>               
-                    <td width="25%"><img src="images/cf.png" alt="blind-date"
+                    <td width="25%"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
                                          width="200"
                                          height="105"></td>
                     <td width="75%" valign="top">
                         <p>
-                            <a href="https://arxiv.org/abs/1909.12000">
-                                <papertitle>CoPhy: Counterfactual Learning of Physical Dynamics
+                            <a href="https://arxiv.org/pdf/1912.03063.pdf">
+                                <papertitle>Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks
                                 </papertitle>
                             </a>
                             <br>
-                            <strong>Fabien Baradel</strong>,
-                            <a href="https://nneverova.github.io/">Natalia Neverova</a>,
-                            <a href="http://www.rfai.li.univ-tours.fr/PagesPerso/jmille/">Julien Mille</a>,
-                            <a href="http://www.cs.sfu.ca/~mori/">Greg Mori</a>,
+                            <strong>Corentin Kervadec</strong>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
                             <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
                             <br>
-                            <em>ICLR</em>, 2020 &nbsp; <font color="red"><strong>(Spotlight presentation)</strong></font>
-                             <!--<em>International Conference on Learning Representations-->
-                                <!--(<strong>ICLR</strong>)</em>, 2020 <strong>(spotlight)</strong>-->
+                            <em>ECAI</em>, 2020 &nbsp;
                             <br>
-                            <a href="https://arxiv.org/pdf/1909.12000.pdf">PDF</a>
+                            <a href="https://arxiv.org/pdf/1912.03063.pdf">PDF</a>
                             /
-                            <a href="https://arxiv.org/abs/1909.12000">arXiv</a>
+                            <a href="https://arxiv.org/abs/1912.03063">arXiv</a>
                             /
-                            <a href="https://github.com/fabienbaradel/cophy">Code-Dataset</a>
+                            <a video (soon)</a>
                             /
-                            <a href="https://youtu.be/95nqaDV9cYM">Video</a>
-                            /
-                            <a href="./bib/BaradelCophy_ICLR_20.txt">bibtex</a>
+                            <a href="./bib/KervadecWOA_ECAI_20.txt">bibtex</a>
                         </p>
-                        <p>  We introduce a new problem of counterfactual learning of object mechanics from visual input and a benchmark called CoPhy.
+                        <p>  We introduce a weakly supervised word-object alignment inside the BERT-like Vision-Language encoder allowing to model fine-grained entity relations.
                         </p>
                     </td>
                 </tr>     
