@@ -61,4 +61,35 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                     </td>
                 </tr>     
                 <tbody>
+                <tr>               
+                    <td width="25%"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
+                                         width="200"
+                                         height="105"></td>
+                    <td width="75%" valign="top">
+                        <p>
+                            <a href="https://arxiv.org/pdf/1912.03063.pdf">
+                                <papertitle>Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks
+                                </papertitle>
+                            </a>
+                            <br>
+                            <strong>Corentin Kervadec</strong>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
+                            <br>
+                            <em>ECAI</em>, 2020 &nbsp;
+                            <br>
+                            <a href="https://arxiv.org/pdf/1912.03063.pdf">PDF</a>
+                            /
+                            <a href="https://arxiv.org/abs/1912.03063">arXiv</a>
+                            /
+                            <a href="">video (soon)</a>
+                            /
+                            <a href="./bib/KervadecWOA_ECAI_20.txt">bibtex</a>
+                        </p>
+                        <p>  We introduce a weakly supervised word-object alignment inside BERT-like Vision-Language encoders, allowing to model fine-grained entity relations and improve visual reasoning capabilities.
+                        </p>
+                    </td>
+                </tr>     
+                <tbody>  
             </table>
