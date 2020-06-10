@@ -92,4 +92,4 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                     </td>
                 </tr>     
                 <tbody>  
-            </table>
+</table>
