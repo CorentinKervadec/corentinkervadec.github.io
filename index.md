@@ -29,15 +29,12 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 # Publications
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-
                 <tbody>
-
-                <tr>
+                <tr>               
                     <td width="25%"><img src="images/cf.png" alt="blind-date"
                                          width="200"
                                          height="105"></td>
                     <td width="75%" valign="top">
-
                         <p>
                             <a href="https://arxiv.org/abs/1909.12000">
                                 <papertitle>CoPhy: Counterfactual Learning of Physical Dynamics
@@ -67,7 +64,6 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         <p>  We introduce a new problem of counterfactual learning of object mechanics from visual input and a benchmark called CoPhy.
                         </p>
                     </td>
-                </tr>
-                
+                </tr>     
                 <tbody>
             </table>
