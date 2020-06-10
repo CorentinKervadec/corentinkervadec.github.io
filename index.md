@@ -12,7 +12,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Question Answering (VQA).
 <p align=center>
-<a href="mailto:corentin<dot>kervadec<at>orange<dot>com">Email</a> &nbsp/&nbsp
+<a href="mailto:corentin.kervadec@orange.com">Email</a> &nbsp/&nbsp
 <a href="https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl">Scholar</a>&nbsp/&nbsp
 <a href="https://github.com/CorentinKervadec">Github</a> &nbsp/&nbsp
 <a href="https://twitter.com/CorentK">Twitter</a>
