@@ -28,4 +28,46 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # Publications
 
-In construction...
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+                <tbody>
+
+                <tr>
+                    <td width="25%"><img src="images/cf.png" alt="blind-date"
+                                         width="200"
+                                         height="105"></td>
+                    <td width="75%" valign="top">
+
+                        <p>
+                            <a href="https://arxiv.org/abs/1909.12000">
+                                <papertitle>CoPhy: Counterfactual Learning of Physical Dynamics
+                                </papertitle>
+                            </a>
+                            <br>
+                            <strong>Fabien Baradel</strong>,
+                            <a href="https://nneverova.github.io/">Natalia Neverova</a>,
+                            <a href="http://www.rfai.li.univ-tours.fr/PagesPerso/jmille/">Julien Mille</a>,
+                            <a href="http://www.cs.sfu.ca/~mori/">Greg Mori</a>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
+                            <br>
+                            <em>ICLR</em>, 2020 &nbsp; <font color="red"><strong>(Spotlight presentation)</strong></font>
+                             <!--<em>International Conference on Learning Representations-->
+                                <!--(<strong>ICLR</strong>)</em>, 2020 <strong>(spotlight)</strong>-->
+                            <br>
+                            <a href="https://arxiv.org/pdf/1909.12000.pdf">PDF</a>
+                            /
+                            <a href="https://arxiv.org/abs/1909.12000">arXiv</a>
+                            /
+                            <a href="https://github.com/fabienbaradel/cophy">Code-Dataset</a>
+                            /
+                            <a href="https://youtu.be/95nqaDV9cYM">Video</a>
+                            /
+                            <a href="./bib/BaradelCophy_ICLR_20.txt">bibtex</a>
+                        </p>
+                        <p>  We introduce a new problem of counterfactual learning of object mechanics from visual input and a benchmark called CoPhy.
+                        </p>
+                    </td>
+                </tr>
+                
+                <tbody>
+            </table>
