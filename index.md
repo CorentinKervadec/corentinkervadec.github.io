@@ -11,11 +11,12 @@ I am a PhD student at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange
 My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.
 
 My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Question Answering (VQA).
+
 <p align=center>
-<a href="mailto:corentin.kervadec@orange.com">Email</a> &nbsp/&nbsp
-<a href="https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl">Scholar</a>&nbsp/&nbsp
-<a href="https://github.com/CorentinKervadec">Github</a> &nbsp/&nbsp
-<a href="https://twitter.com/CorentK">Twitter</a>
+  <a href="mailto:corentin.kervadec@orange.com">Email</a> &nbsp/&nbsp
+  <a href="https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl">Scholar</a>&nbsp/&nbsp
+  <a href="https://github.com/CorentinKervadec">Github</a> &nbsp/&nbsp
+  <a href="https://twitter.com/CorentK">Twitter</a>
 </p>
 
 # News
