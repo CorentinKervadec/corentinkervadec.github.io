@@ -13,13 +13,11 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Question Answering (VQA).
 
 <p align=center>
-                            <a href="mailto:fabien<dot>baradel<at>liris<dot>cnrs<dot>fr">Email</a> &nbsp/&nbsp
-                            <a href="./docs/resume/resume_FabienBaradel.pdf">CV</a> &nbsp/&nbsp
-                            <a href="https://scholar.google.fr/citations?user=egECWaEAAAAJ&hl=en">Scholar</a>
+                            <a href="mailto:corentin<dot>kervadec<at>orange<dot>com">Email</a> &nbsp/&nbsp
+                            <a href="https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl">Scholar</a>
                             &nbsp/&nbsp
-                            <a href="https://github.com/fabienbaradel">Github</a> &nbsp/&nbsp
-                            <a href="http://www.linkedin.com/in/fabienbaradel/"> LinkedIn </a> &nbsp/&nbsp
-                            <a href="https://twitter.com/fabienbaradel">Twitter</a>
+                            <a href="https://github.com/CorentinKervadec">Github</a> &nbsp/&nbsp
+                            <a href="https://twitter.com/CorentK">Twitter</a>
                         </p>
 
 # News
