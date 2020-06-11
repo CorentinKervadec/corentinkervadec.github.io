@@ -10,7 +10,7 @@ I am a PhD student at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange
 
 My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.
 
-My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Question Answering (VQA).
+My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
 
 
 <p align=center>
