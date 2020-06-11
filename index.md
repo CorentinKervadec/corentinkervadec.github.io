@@ -43,13 +43,13 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                 <tbody>
                 <tr>               
-                    <td width="25%"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
+                    <td width="25%"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"
                                          width="200"
                                          height="105"></td>
                     <td width="75%" valign="top">
                         <p>
-                            <a href="https://arxiv.org/pdf/1912.03063.pdf">
-                                <papertitle>Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks
+                            <a href="https://128.84.21.199/pdf/2006.05121.pdf"">
+                                <papertitle>Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
                                 </papertitle>
                             </a>
                             <br>
@@ -58,15 +58,13 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
                             <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
                             <br>
-                            <em>ECAI</em>, 2020 &nbsp;
+                            <em>Arxiv</em>, 2020 &nbsp;
                             <br>
-                            <a href="https://arxiv.org/pdf/1912.03063.pdf">PDF</a>
+                            <a href="https://128.84.21.199/pdf/2006.05121.pdf">PDF</a>
                             /
-                            <a href="https://arxiv.org/abs/1912.03063">arXiv</a>
+                            <a href="https://128.84.21.199/abs/2006.05121">arXiv</a>
                             /
                             <a href="">video (soon)</a>
-                            /
-                            <a href="./bib/KervadecWOA_ECAI_20.txt">bibtex</a>
                         </p>
                         <p>  We introduce a weakly supervised word-object alignment inside BERT-like Vision-Language encoders, allowing to model fine-grained entity relations and improve visual reasoning capabilities.
                         </p>
@@ -79,7 +77,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                                          height="105"></td>
                     <td width="75%" valign="top">
                         <p>
-                            <a href="https://arxiv.org/pdf/1912.03063.pdf">
+                            <a href="http://ecai2020.eu/papers/1241_paper.pdf">
                                 <papertitle>Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks
                                 </papertitle>
                             </a>
@@ -91,7 +89,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>ECAI</em>, 2020 &nbsp;
                             <br>
-                            <a href="https://arxiv.org/pdf/1912.03063.pdf">PDF</a>
+                            <a href="http://ecai2020.eu/papers/1241_paper.pdf">PDF</a>
                             /
                             <a href="https://arxiv.org/abs/1912.03063">arXiv</a>
                             /
