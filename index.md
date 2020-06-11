@@ -12,14 +12,6 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
 
-
-<p align=center>
-  <a href="mailto:corentin.kervadec@orange.com">Email</a> &nbsp/&nbsp
-  <a href="https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl">Scholar</a>&nbsp/&nbsp
-  <a href="https://github.com/CorentinKervadec">Github</a> &nbsp/&nbsp
-  <a href="https://twitter.com/CorentK">Twitter</a>
-</p>
-
 # News
 
 * June 2020: New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://128.84.21.199/pdf/2006.05121.pdf)
@@ -48,7 +40,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                                          height="105"></td>
                     <td width="75%" valign="top">
                         <p>
-                            <a href="https://128.84.21.199/pdf/2006.05121.pdf"">
+                            <a href="https://128.84.21.199/pdf/2006.05121.pdf">
                                 <papertitle>Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
                                 </papertitle>
                             </a>
@@ -63,8 +55,6 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <a href="https://128.84.21.199/pdf/2006.05121.pdf">PDF</a>
                             /
                             <a href="https://128.84.21.199/abs/2006.05121">arXiv</a>
-                            /
-                            <a href="">video (soon)</a>
                         </p>
                         <p>  We propose a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
@@ -77,8 +67,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                                          height="105"></td>
                     <td width="75%" valign="top">
                         <p>
-                            <a href="https://128.84.21.199/pdf/2006.05121.pdf"">
-                                <papertitle>Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
+                            <a href="https://128.84.21.199/pdf/2006.05726.pdf">
+                                <papertitle>Estimating semantic structure for the VQA answer space
                                 </papertitle>
                             </a>
                             <br>
@@ -89,13 +79,11 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>Arxiv</em>, 2020 &nbsp;
                             <br>
-                            <a href="https://128.84.21.199/pdf/2006.05121.pdf">PDF</a>
+                            <a href="https://128.84.21.199/pdf/2006.05726.pdf">PDF</a>
                             /
-                            <a href="https://128.84.21.199/abs/2006.05121">arXiv</a>
-                            /
-                            <a href="">video (soon)</a>
+                            <a href="https://128.84.21.199/abs/2006.05726">arXiv</a>
                         </p>
-                        <p>  We introduce a weakly supervised word-object alignment inside BERT-like Vision-Language encoders, allowing to model fine-grained entity relations and improve visual reasoning capabilities.
+                        <p>  Semantic loss for VQA adding structure to the VQA answer space estimated from redundancy in annotations, questioning the classification approach to VQA.
                         </p>
                     </td>
                 </tr>     
