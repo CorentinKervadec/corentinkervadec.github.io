@@ -29,6 +29,18 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
+        
+        {% if site.twitter %}
+        <p class="view"><a href="{{ site.twitter }}">Follow me on twitter</a></p>
+        {% endif %}
+        
+        {% if site.mail %}
+        <p class="view"><a href="{{ site.email }}">Send me an email</a></p>
+        {% endif %}
+        
+        {% if site.scholar %}
+        <p class="view"><a href="{{ site.scholar }}">Google scholar</a></p>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
