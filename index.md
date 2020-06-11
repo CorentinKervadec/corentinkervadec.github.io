@@ -23,7 +23,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 * June 2020: New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://128.84.21.199/pdf/2006.05121.pdf)
 
-* June 2020: New paper on Arxiv! [Estimating semantic structure for the VQA answer space](https://128.84.21.199/pdf/2006.05726.pdf)
+* June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://128.84.21.199/pdf/2006.05726.pdf)
 
 * January 2020: One paper accepted at [ECAI20](http://ecai2020.eu/)! ["Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks."](https://arxiv.org/pdf/1912.03063.pdf)
 
