@@ -66,6 +66,35 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             /
                             <a href="">video (soon)</a>
                         </p>
+                        <p>  We propose a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
+                        </p>
+                    </td>
+                </tr>     
+                <tbody>
+                <tr>               
+                    <td width="25%"><img src="semantic_vqa/general.png" alt="blind-date"
+                                         width="200"
+                                         height="105"></td>
+                    <td width="75%" valign="top">
+                        <p>
+                            <a href="https://128.84.21.199/pdf/2006.05121.pdf"">
+                                <papertitle>Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
+                                </papertitle>
+                            </a>
+                            <br>
+                            <strong>Corentin Kervadec</strong>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
+                            <br>
+                            <em>Arxiv</em>, 2020 &nbsp;
+                            <br>
+                            <a href="https://128.84.21.199/pdf/2006.05121.pdf">PDF</a>
+                            /
+                            <a href="https://128.84.21.199/abs/2006.05121">arXiv</a>
+                            /
+                            <a href="">video (soon)</a>
+                        </p>
                         <p>  We introduce a weakly supervised word-object alignment inside BERT-like Vision-Language encoders, allowing to model fine-grained entity relations and improve visual reasoning capabilities.
                         </p>
                     </td>
