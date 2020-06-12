@@ -128,7 +128,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <strong>Corentin Kervadec*</strong>, 
                             <a href="https://scholar.google.fr/citations?user=ve7hYuQAAAAJ&">Valentin Vielzeuf*</a>,
                             Stéphane Pateux,
-                            <a href="https://lechervy.users.greyc.fr/">Alexis Lechervy</a>
+                            <a href="https://lechervy.users.greyc.fr/">Alexis Lechervy,</a>
                             <a href="https://frederic-jurie.github.io/">Frederic Jurie</a>
                             <br>
                             <em>IAHFAR workshop (BMVC)</em>, 2018 &nbsp;
@@ -139,6 +139,25 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             / 
                             <a href="./bib/KervadecCake_IAHFAR_18.txt">bibtex</a>
                         </p> We propose CAKE, a 3-dimensional representation of emotion learned in a multi-domain fashion, achieving accurate emotion recognition on several public datasets
+                        <p>  
+                        </p>   
+                <tbody>
+                 <b><p style="font-size:18px;"><a href="https://dl.acm.org/doi/pdf/10.1145/3242969.3264980">
+                                An occam's razor view on learning audiovisual emotion recognition with small training sets</a></p></b>
+                        <p>
+                            <br>
+                            <a href="https://scholar.google.fr/citations?user=ve7hYuQAAAAJ&">Valentin Vielzeuf</a>,
+                            <strong>Corentin Kervadec</strong>, 
+                            Stéphane Pateux,
+                            <a href="https://lechervy.users.greyc.fr/">Alexis Lechervy,</a>
+                            <a href="https://frederic-jurie.github.io/">Frederic Jurie</a>
+                            <br>
+                            <em>EmotiW challenge (ICMI)</em>, 2018 &nbsp;
+                            <br>
+                            <a href="https://dl.acm.org/doi/pdf/10.1145/3242969.3264980">PDF</a>
+                            / 
+                            <a href="./bib/VielzeufOccam_ICMI_18.txt">bibtex</a>
+                        </p>  A light-weight and accurate deep neural model for audiovisual emotion recognition. We ranked 3th at the Emotion in the Wild 2018 challenge.
                         <p>  
                         </p>   
                 <tbody>
