@@ -101,13 +101,13 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                 <tbody>
                  <b><p style="font-size:18px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560&tag=1">
                                 The Many Variations of Emotion</a></p></b>
-                 <p align="center"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
+                 <p align="center"><img src="many_variations/many_variations.png" alt="blind-date"
                                         width="66%"></p>
                         <p>
                             <br>
                             <a href="https://scholar.google.fr/citations?user=ve7hYuQAAAAJ&">Valentin Vielzeuf</a>,
                             <strong>Corentin Kervadec</strong>,
-                            <a Stéphane Pateux</a>,
+                            Stéphane Pateux,
                             <a href="https://frederic-jurie.github.io/">Frederic Jurie</a>
                             <br>
                             <em>FG</em>, 2019 &nbsp;
@@ -115,7 +115,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560&tag=1">PDF</a>
                             /
                             <a href="./bib/VielzeufMAny_FG_19.txt">bibtex</a>
-                        </p>
-                        <p>  We introduce a weakly supervised word-object alignment inside BERT-like Vision-Language encoders, allowing to model fine-grained entity relations and improve visual reasoning capabilities.
+                        </p> We present a novel approach for changing facial expression in images by the use of a continouous latent space of emotion.
+                        <p>  
                         </p>   
                 <tbody>
