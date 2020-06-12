@@ -101,7 +101,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                 <tbody>
                  <b><p style="font-size:18px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560&tag=1">
                                 The Many Variations of Emotion</a></p></b>
-                 <p align="center"><img src="many_variations/many_variations.png" alt="blind-date"
+                 <p align="center"><img src="many_variations/many_variations.PNG" alt="blind-date"
                                         width="66%"></p>
                         <p>
                             <br>
