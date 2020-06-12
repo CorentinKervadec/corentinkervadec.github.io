@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Page in construction...
-
 # About
 
 I am a PhD student at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
