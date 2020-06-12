@@ -1,0 +1,7 @@
+@inproceedings{vielzeuf2018occam,
+  title={An occam's razor view on learning audiovisual emotion recognition with small training sets},
+  author={Vielzeuf, Valentin and Kervadec, Corentin and Pateux, St{\'e}phane and Lechervy, Alexis and Jurie, Fr{\'e}d{\'e}ric},
+  booktitle={Proceedings of the 20th ACM International Conference on Multimodal Interaction},
+  pages={589--593},
+  year={2018}
+}
