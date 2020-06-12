@@ -38,7 +38,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                     <p style="font-size:24px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf">
                                Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
                               </a></p>
-                    <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
+                    <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="66%"><\p>
                         <p>
                             <br>
                             <strong>Corentin Kervadec</strong>,
@@ -61,7 +61,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                 <tbody>
                    <p style="font-size:24px;"><a href="https://128.84.21.199/pdf/2006.05726.pdf">
                              Estimating semantic structure for the VQA answer space</a></p>
-                   <p align="center"><img src="semantic_vqa/general.png" alt="blind-date"                                width="75%"></p>
+                   <p align="center"><img src="semantic_vqa/general.png" alt="blind-date"                                width="66%"></p>
                         <p>
                             <br>
                             <strong>Corentin Kervadec</strong>,
@@ -81,7 +81,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                  <p style="font-size:24px;"><a href="http://ecai2020.eu/papers/1241_paper.pdf">
                                 Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks</a></p>
                  <p align="center"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
-                                        width="75%"></p>
+                                        width="66%"></p>
                         <p>
                             <br>
                             <strong>Corentin Kervadec</strong>,
