@@ -49,7 +49,7 @@ We propose [GQA-OOD]("https://github.com/gqaood/GQA-OOD"), a new benchmark to ev
                 <tbody>            
                     <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
                         <p>
-                            <p style="font-size:36px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf">
+                            <p style="font-size:24px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf">
                                Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
                               </a></p>
                             <br>
