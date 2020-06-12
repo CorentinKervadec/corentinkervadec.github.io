@@ -33,6 +33,18 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # Publications
 
+## [Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?](https://128.84.21.199/pdf/2006.05121.pdf)
+
+<p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
+ <br>
+                            <strong>Corentin Kervadec</strong>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
+                            <br>
+  
+We propose [GQA-OOD]("https://github.com/gqaood/GQA-OOD"), a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
+  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                 <tbody>            
                     <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
