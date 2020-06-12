@@ -34,12 +34,10 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 # Publications
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-                <tbody>
-                <tr>               
-                    <td width="25%"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"
+                <tbody>            
+                    <img src="gqa_ood/teaser-b-v4.png" alt="blind-date"
                                          width="200"
-                                         height="105"></td>
-                    <td width="75%" valign="top">
+                                         height="105">
                         <p>
                             <a href="https://128.84.21.199/pdf/2006.05121.pdf">
                                 <papertitle>Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
@@ -59,8 +57,6 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         </p>
                         <p>  We propose a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
-                    </td>
-                </tr>     
                 <tbody>
                 <tr>               
                     <td width="25%"><img src="semantic_vqa/general.png" alt="blind-date"
