@@ -1,0 +1,6 @@
+@inproceedings{kervadec2018cake,
+  title={CAKE: Compact and Accurate K-dimensional representation of Emotion},
+  author={Kervadec, Corentin and Vielzeuf, Valentin and Pateux, St{\'e}phane and Lechervy, Alexis and Jurie, Fr{\'e}d{\'e}ric},
+  booktitle={Image Analysis for Human Facial and Activity Recognition (BMVC Workshop)},
+  year={2018}
+}
