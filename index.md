@@ -34,9 +34,9 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                 <tbody>     
-                    <p style="font-size:18px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf"> Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?</a></p>
+                    <b><p style="font-size:18px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf"> Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?</a></p></b>
                     <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date" width="66%"><\p>
-                        <p>
+                     <p>
                             <br>
                             <strong>Corentin Kervadec</strong>,
                             <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
@@ -56,8 +56,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         <p>  We propose <a href="https://github.com/gqaood/GQA-OOD">GQA-OOD</a>, a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
                 <tbody>
-                   <p style="font-size:18px;"><a href="https://128.84.21.199/pdf/2006.05726.pdf">
-                             Estimating semantic structure for the VQA answer space</a></p>
+                   <b><p style="font-size:18px;"><a href="https://128.84.21.199/pdf/2006.05726.pdf">
+                    Estimating semantic structure for the VQA answer space</a></p></b>
                    <p align="center"><img src="semantic_vqa/general.png" alt="blind-date"                                width="66%"></p>
                         <p>
                             <br>
@@ -75,8 +75,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         <p>  Semantic loss for VQA adding structure to the VQA answer space estimated from redundancy in annotations, questioning the classification approach to VQA.
                         </p>
                 <tbody>
-                 <p style="font-size:18px;"><a href="http://ecai2020.eu/papers/1241_paper.pdf">
-                                Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks</a></p>
+                 <b><p style="font-size:18px;"><a href="http://ecai2020.eu/papers/1241_paper.pdf">
+                                Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks</a></p></b>
                  <p align="center"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
                                         width="66%"></p>
                         <p>
