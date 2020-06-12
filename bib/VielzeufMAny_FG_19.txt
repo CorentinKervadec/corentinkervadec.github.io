@@ -1,0 +1,8 @@
+@inproceedings{vielzeuf2019many,
+  title={The Many Variations of Emotion},
+  author={Vielzeuf, Valentin and Kervadec, Corentin and Pateux, St{\'e}phane and Jurie, Fr{\'e}d{\'e}ric},
+  booktitle={2019 14th IEEE International Conference on Automatic Face \& Gesture Recognition (FG 2019)},
+  pages={1--7},
+  year={2019},
+  organization={IEEE}
+}
