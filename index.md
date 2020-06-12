@@ -78,16 +78,11 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         <p>  Semantic loss for VQA adding structure to the VQA answer space estimated from redundancy in annotations, questioning the classification approach to VQA.
                         </p>
                 <tbody>
-                <tr>               
-                    <td width="25%"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
-                                         width="200"
-                                         height="105"></td>
-                    <td width="75%" valign="top">
+                 <p style="font-size:24px;"><a href="http://ecai2020.eu/papers/1241_paper.pdf">
+                                Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks</a></p>
+                 <p align="center"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
+                                        width="75%"></p>
                         <p>
-                            <a href="http://ecai2020.eu/papers/1241_paper.pdf">
-                                <papertitle>Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks
-                                </papertitle>
-                            </a>
                             <br>
                             <strong>Corentin Kervadec</strong>,
                             <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
@@ -105,7 +100,5 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <a href="./bib/KervadecWOA_ECAI_20.txt">bibtex</a>
                         </p>
                         <p>  We introduce a weakly supervised word-object alignment inside BERT-like Vision-Language encoders, allowing to model fine-grained entity relations and improve visual reasoning capabilities.
-                        </p>
-                    </td>
-                </tr>     
+                        </p>   
                 <tbody>  
