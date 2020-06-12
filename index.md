@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# About
-
 I am a PhD student at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
 
 My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.
@@ -143,7 +141,6 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                  <b><p style="font-size:18px;"><a href="https://dl.acm.org/doi/pdf/10.1145/3242969.3264980">
                                 An occam's razor view on learning audiovisual emotion recognition with small training sets</a></p></b>
                         <p>
-                            <br>
                             <a href="https://scholar.google.fr/citations?user=ve7hYuQAAAAJ&">Valentin Vielzeuf</a>,
                             <strong>Corentin Kervadec</strong>, 
                             Stéphane Pateux,
