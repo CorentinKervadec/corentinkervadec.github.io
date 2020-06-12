@@ -32,26 +32,14 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 * March 2018, Starting a Master's internship at [Orange Labs](https://www.orange.com/fr/accueil).
 
 # Publications
-
-## [Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?](https://128.84.21.199/pdf/2006.05121.pdf)
-
-<p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
- <br>
-                            <strong>Corentin Kervadec</strong>,
-                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
-                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
-                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
-                            <br>
-  
-We propose [GQA-OOD]("https://github.com/gqaood/GQA-OOD"), a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
-  
+ 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-                <tbody>            
-                    <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
-                        <p>
-                            <p style="font-size:24px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf">
+                <tbody>     
+                    <p style="font-size:24px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf">
                                Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
                               </a></p>
+                    <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
+                        <p>
                             <br>
                             <strong>Corentin Kervadec</strong>,
                             <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
