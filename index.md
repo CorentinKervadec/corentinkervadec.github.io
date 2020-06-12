@@ -119,3 +119,26 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         <p>  
                         </p>   
                 <tbody>
+                 <b><p style="font-size:18px;"><a href="http://bmvc2018.org/contents/workshops/iahfar2018/0037.pdf">
+                                CAKE: Compact and Accurate K-dimensional representation of Emotion</a></p></b>
+                 <p align="center"><img src="cake/cake_viz.PNG" alt="blind-date"
+                                        width="66%"></p>
+                        <p>
+                            <br>
+                            <strong>Corentin Kervadec*</strong>, 
+                            <a href="https://scholar.google.fr/citations?user=ve7hYuQAAAAJ&">Valentin Vielzeuf*</a>,
+                            Stéphane Pateux,
+                            <a href="https://lechervy.users.greyc.fr/">Alexis Lechervy</a>
+                            <a href="https://frederic-jurie.github.io/">Frederic Jurie</a>
+                            <br>
+                            <em>IAHFAR workshop (BMVC)</em>, 2018 &nbsp;
+                            <br>
+                            <a href="http://bmvc2018.org/contents/workshops/iahfar2018/0037.pdf">PDF</a>
+                            /
+                            <a href="https://arxiv.org/abs/1807.11215">arXiv</a>
+                            / 
+                            <a href="./bib/KervadecCake_IAHFAR_18.txt">bibtex</a>
+                        </p> We propose CAKE, a 3-dimensional representation of emotion learned in a multi-domain fashion, achieving accurate emotion recognition on several public datasets
+                        <p>  
+                        </p>   
+                <tbody>
