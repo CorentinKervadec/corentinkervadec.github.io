@@ -59,16 +59,10 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         <p>  We propose <a href="https://github.com/gqaood/GQA-OOD">GQA-OOD</a>, a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
                 <tbody>
-                <tr>               
-                    <td width="25%"><img src="semantic_vqa/general.png" alt="blind-date"
-                                         width="200"
-                                         height="105"></td>
-                    <td width="75%" valign="top">
+                   <p style="font-size:24px;"><a href="https://128.84.21.199/pdf/2006.05726.pdf">
+                             Estimating semantic structure for the VQA answer space</a></p>
+                   <p align="center"><img src="semantic_vqa/general.png" alt="blind-date"                                width="75%"></p>
                         <p>
-                            <a href="https://128.84.21.199/pdf/2006.05726.pdf">
-                                <papertitle>Estimating semantic structure for the VQA answer space
-                                </papertitle>
-                            </a>
                             <br>
                             <strong>Corentin Kervadec</strong>,
                             <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
@@ -83,8 +77,6 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                         </p>
                         <p>  Semantic loss for VQA adding structure to the VQA answer space estimated from redundancy in annotations, questioning the classification approach to VQA.
                         </p>
-                    </td>
-                </tr>     
                 <tbody>
                 <tr>               
                     <td width="25%"><img src="word_object_alignment/fig_teaser.png" alt="blind-date"
