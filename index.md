@@ -37,7 +37,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                 <tbody>            
                     <p align="center"><img src="gqa_ood/teaser-b-v4.png" alt="blind-date"  width="75%"><\p>
                         <p>
-                            <a style="font-size:24px;" href="https://128.84.21.199/pdf/2006.05121.pdf">
+                            <a style="font-size:36px;" href="https://128.84.21.199/pdf/2006.05121.pdf">
                                Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?
                             </a>
                             <br>
