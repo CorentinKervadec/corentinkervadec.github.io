@@ -111,7 +111,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560&tag=1">PDF</a>
                             /
                             <a href="./bib/VielzeufMAny_FG_19.txt">bibtex</a>
-                        </p> We present a novel approach for changing facial expression in images by the use of a continouous latent space of emotion.
+                        </p> We present a novel approach for changing facial expression in images by the use of a continuous latent space of emotion.
                         <p>  
                         </p>   
                 <tbody>
