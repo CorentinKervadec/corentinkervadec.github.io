@@ -88,7 +88,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             /
                             <a href="https://arxiv.org/abs/1912.03063">arXiv</a>
                             /
-                            <a href="">video (soon)</a>
+                            <a href="https://youtu.be/SW8J0G8AbgY">video</a>
                             /
                             <a href="./bib/KervadecWOA_ECAI_20.txt">bibtex</a>
                         </p>
