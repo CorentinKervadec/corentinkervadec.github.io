@@ -12,7 +12,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 * ~~June~~ December 2020 (updated version): New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121)
 
-* June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://128.84.21.199/pdf/2006.05726.pdf)
+* June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://arxiv.org/abs/2006.05726)
 
 * January 2020: One paper accepted at [ECAI20](http://ecai2020.eu/)! ["Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks."](https://arxiv.org/pdf/1912.03063.pdf)
 
@@ -64,9 +64,9 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>Arxiv</em>, 2020 &nbsp;
                             <br>
-                            <a href="https://128.84.21.199/pdf/2006.05726.pdf">PDF</a>
+                            <a href="https://arxiv.org/abs/2006.05726.pdf">PDF</a>
                             /
-                            <a href="https://128.84.21.199/abs/2006.05726">arXiv</a>
+                            <a href="https://arxiv.org/abs/2006.05726">arXiv</a>
                         </p>
                         <p>  Semantic loss for VQA adding structure to the VQA answer space estimated from redundancy in annotations, questioning the classification approach to VQA.
                         </p>
