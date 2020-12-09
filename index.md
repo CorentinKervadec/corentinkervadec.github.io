@@ -10,7 +10,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
-* June 2020: New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://128.84.21.199/pdf/2006.05121.pdf)
+* --June-- December 2020 (updated version): New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://128.84.21.199/pdf/2006.05121.pdf)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://128.84.21.199/pdf/2006.05726.pdf)
 
@@ -45,9 +45,9 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             /
                             <a href="https://128.84.21.199/abs/2006.05121">arXiv</a>
                             /
-                            <a href="https://github.com/gqaood/GQA-OOD/tree/master/code">Code</a>
+                            <a href="https://github.com/gqa-ood/GQA-OOD/tree/master/code">Code</a>
                             /
-                            <a href="https://github.com/gqaood/GQA-OOD">Benchmark</a>
+                            <a href="https://github.com/gqa-ood/GQA-OOD">Benchmark</a>
                         </p>
                         <p>  We propose <a href="https://github.com/gqaood/GQA-OOD">GQA-OOD</a>, a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
