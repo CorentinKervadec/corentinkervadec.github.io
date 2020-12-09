@@ -49,7 +49,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             /
                             <a href="https://github.com/gqa-ood/GQA-OOD">Benchmark</a>
                         </p>
-                        <p>  We propose <a href="https://github.com/gqaood/GQA-OOD">GQA-OOD</a>, a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
+                        <p>  We propose <a href="https://github.com/gqa-ood/GQA-OOD">GQA-OOD</a>, a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
                 <tbody>
                    <b><p style="font-size:18px;"><a href="https://128.84.21.199/pdf/2006.05726.pdf">
