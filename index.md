@@ -10,7 +10,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
-* --June-- December 2020 (updated version): New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://128.84.21.199/pdf/2006.05121.pdf)
+* ~~June~~ December 2020 (updated version): New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://128.84.21.199/pdf/2006.05726.pdf)
 
@@ -41,9 +41,9 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>Arxiv</em>, 2020 &nbsp;
                             <br>
-                            <a href="https://128.84.21.199/pdf/2006.05121.pdf">PDF</a>
+                            <a href="https://arxiv.org/abs/2006.05121.pdf">PDF</a>
                             /
-                            <a href="https://128.84.21.199/abs/2006.05121">arXiv</a>
+                            <a href="https://arxiv.org/abs/2006.05121">arXiv</a>
                             /
                             <a href="https://github.com/gqa-ood/GQA-OOD/tree/master/code">Code</a>
                             /
