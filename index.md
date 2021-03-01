@@ -10,9 +10,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
-* Mars 2021: **2 papers accepted at CVPR2021** ! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_)
-
-* ~~June~~ December 2020 (updated version): New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121)
+* Mars 2021: 2 papers accepted at [CVPR2021](http://cvpr2021.thecvf.com/)! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://arxiv.org/abs/2006.05726)
 
