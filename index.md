@@ -10,6 +10,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
+* Mars 2021: **2 papers accepted at CVPR2021** ! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_)
+
 * ~~June~~ December 2020 (updated version): New paper on Arxiv! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://arxiv.org/abs/2006.05726)
@@ -39,7 +41,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
                             <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
                             <br>
-                            <em>Arxiv</em>, 2020 &nbsp;
+                            <em>CVPR</em>, 2021 &nbsp;
                             <br>
                             <a href="https://arxiv.org/pdf/2006.05121.pdf">PDF</a>
                             /
