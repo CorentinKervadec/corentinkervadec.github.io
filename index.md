@@ -31,7 +31,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                 <tbody>     
                     <b><p style="font-size:18px;"><a href="https://openreview.net/forum?id=hARFKEECBD_"> How Transferable are Reasoning Patterns in VQA?</a></p></b>
-                    <p align="center"><img src="reasoning_patterns/teaser.png" alt="blind-date" width="66%">
+                    <p align="center"><img src="reasoning_patterns/teaser.png" alt="blind-date" width="90%">
                      <p>
                             <br>
                             <strong>Corentin Kervadec*</strong>,
