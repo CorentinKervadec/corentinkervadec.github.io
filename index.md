@@ -10,7 +10,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
-* Mars 2021: 2 papers accepted at [CVPR2021](http://cvpr2021.thecvf.com/)! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_)
+* Mars 2021: 2 papers accepted at [CVPR2021](http://cvpr2021.thecvf.com/)! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_) (checkout our online demo [here](https://reasoningpatterns.github.io/)!)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://arxiv.org/abs/2006.05726)
 
@@ -29,6 +29,28 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 # Publications
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+                <tbody>     
+                    <b><p style="font-size:18px;"><a href="https://openreview.net/forum?id=hARFKEECBD_"> How Transferable are Reasoning Patterns in VQA?</a></p></b>
+                    <p align="center"><img src="reasoning_patterns/teaser.png" alt="blind-date" width="66%">
+                     <p>
+                            <br>
+                            <strong>Corentin Kervadec*</strong>,
+                            <a href="https://theo-jaunet.github.io/">Theo Jaunet*</a>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
+                            <a href="https://romain.vuillemot.net/">Romain Vuillemot</a>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
+                            <br>
+                            <em>CVPR</em>, 2021 &nbsp;
+                            <br>
+                            <a href="https://openreview.net/pdf?id=hARFKEECBD_">PDF</a>
+                            /
+                            <a href="https://openreview.net/forum?id=hARFKEECBD_">OpenReview</a>
+                            /
+                            <a href="https://reasoningpatterns.github.io/">Online Demo!</a>
+                        </p>
+                        <p>  Noise and uncertainties in visual inputs are the main bottleneck in VQA, preventing successful learning of reasoning capacities. In a deep analysis, we show that oracle models trained on noiseless visual data, tend to depend significantly less on bias exploitation (<a href="https://reasoningpatterns.github.io/">checkout our interactive tool</a>). In this, paper we demonstrate the feasability and the effectiveness of transfering learned reasoning patterns from oracle to real data based models.
+                        </p>
                 <tbody>     
                     <b><p style="font-size:18px;"><a href="https://128.84.21.199/pdf/2006.05121.pdf"> Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?</a></p></b>
                     <p align="center"><img src="gqa_ood/teaser-girl-v8.png" alt="blind-date" width="66%">
