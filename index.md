@@ -33,6 +33,30 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 # Publications
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+                 <tbody>     
+                    <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2104.00926"> VisQA: X-raying Vision and Language Reasoning in Transformers</a></p></b>
+                    <p align="center"><img src="visqa/teaser.png" alt="blind-date" width="90%">
+                     <p>
+                            <br>
+                            <a href="https://theo-jaunet.github.io/">Theo Jaunet</a>,
+                            <strong>Corentin Kervadec</strong>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
+                            <a href="https://romain.vuillemot.net/">Romain Vuillemot</a>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf</a>
+                            <br>
+                            <em>Arxiv</em>, 2021 &nbsp;
+                            <br>
+                            <a href="https://arxiv.org/abs/2104.00926.pdf">PDF</a>
+                            /
+                            <a href="https://arxiv.org/abs/2104.00926">Arxiv</a>
+                            /
+                            <a href="https://github.com/Theo-Jaunet/VisQA">Github</a>
+                            /
+                            <a href="https://visqa.liris.cnrs.fr/">Online Demo!</a>
+                        </p>
+                        <p>  We introduce VisQA, a visual analytics tool that explores the question of reasoning vs. bias exploitation in Visual Question Answering systems. Try our interactive tool [here](https://visqa.liris.cnrs.fr/)!
+                        </p>
                 <tbody>     
                     <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2104.03656"> How Transferable are Reasoning Patterns in VQA?</a></p></b>
                     <p align="center"><img src="reasoning_patterns/teaser.png" alt="blind-date" width="90%">
@@ -49,7 +73,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <a href="https://arxiv.org/pdf/2104.03656.pdf">PDF</a>
                             /
-                            <a href="https://arxiv.org/abs/2104.03656">OpenReview</a>
+                            <a href="https://arxiv.org/abs/2104.03656">Arxiv</a>
                             /
                             <a href="https://reasoningpatterns.github.io/">Online Demo!</a>
                         </p>
