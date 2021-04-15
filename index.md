@@ -10,9 +10,11 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
+* April 2021: New paper on Arxiv: [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)!
+
 * April 2021: I gave a talk about VQA and visual reasoning at the GdR ISIS ["Explicabilité et Interprétabilité des méthodes d'Intelligence Artificielle pour la classification et compréhension des scènes visuelles"](http://www.gdr-isis.fr/index.php?page=compte-rendu&idreunion=446) meeting. Slides are available [here](https://github.com/CorentinKervadec/corentinkervadec.github.io/blob/master/slides/GdR_ISIS___Roses_Reasoning__slides_Kervadec_042021.pdf).
 
-* Mars 2021: 2 papers accepted at [CVPR2021](http://cvpr2021.thecvf.com/)! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_) (checkout our online demo [here](https://reasoningpatterns.github.io/)!)
+* Mars 2021: 2 papers accepted at [CVPR2021](http://cvpr2021.thecvf.com/)! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://arxiv.org/abs/2104.03656) (checkout our online demo [here](https://reasoningpatterns.github.io/)!)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://arxiv.org/abs/2006.05726)
 
@@ -32,7 +34,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                 <tbody>     
-                    <b><p style="font-size:18px;"><a href="https://openreview.net/forum?id=hARFKEECBD_"> How Transferable are Reasoning Patterns in VQA?</a></p></b>
+                    <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2104.03656"> How Transferable are Reasoning Patterns in VQA?</a></p></b>
                     <p align="center"><img src="reasoning_patterns/teaser.png" alt="blind-date" width="90%">
                      <p>
                             <br>
@@ -45,9 +47,9 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>CVPR</em>, 2021 &nbsp;
                             <br>
-                            <a href="https://openreview.net/pdf?id=hARFKEECBD_">PDF</a>
+                            <a href="https://arxiv.org/pdf/2104.03656.pdf">PDF</a>
                             /
-                            <a href="https://openreview.net/forum?id=hARFKEECBD_">OpenReview</a>
+                            <a href="https://arxiv.org/abs/2104.03656">OpenReview</a>
                             /
                             <a href="https://reasoningpatterns.github.io/">Online Demo!</a>
                         </p>
