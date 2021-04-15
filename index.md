@@ -10,6 +10,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
+* April 2021: I gave a talk about VQA and visual reasoning at the GdR ISIS ["Explicabilité et Interprétabilité des méthodes d'Intelligence Artificielle pour la classification et compréhension des scènes visuelles"](http://www.gdr-isis.fr/index.php?page=compte-rendu&idreunion=446) meeting. Slides are available [here](https://github.com/CorentinKervadec/corentinkervadec.github.io/blob/master/slides/GdR_ISIS___Roses_Reasoning__slides_Kervadec_042021.pdf).
+
 * Mars 2021: 2 papers accepted at [CVPR2021](http://cvpr2021.thecvf.com/)! ["Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?"](https://arxiv.org/abs/2006.05121) and ["How Transferable are Reasoning Patterns in VQA?"](https://openreview.net/forum?id=hARFKEECBD_) (checkout our online demo [here](https://reasoningpatterns.github.io/)!)
 
 * June 2020: New paper on Arxiv! ["Estimating semantic structure for the VQA answer space"](https://arxiv.org/abs/2006.05726)
