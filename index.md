@@ -35,7 +35,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                  <tbody>     
                     <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2104.00926"> VisQA: X-raying Vision and Language Reasoning in Transformers</a></p></b>
-                    <p align="center"><img src="visqa/teaser.png" alt="blind-date" width="90%">
+                    <p align="center"><img src="visqa/visqa.png" alt="blind-date" width="90%">
                      <p>
                             <br>
                             <a href="https://theo-jaunet.github.io/">Theo Jaunet</a>,
