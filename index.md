@@ -10,6 +10,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 # News
 
+* June 2021: New paper on Arxiv: [Supervising the Transfer of Reasoning Patterns in VQA](https://arxiv.org/abs/2106.05597)!
+
 * April 2021: New paper on Arxiv: [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)!
 
 * April 2021: I gave a talk about VQA and visual reasoning at the GdR ISIS ["Explicabilité et Interprétabilité des méthodes d'Intelligence Artificielle pour la classification et compréhension des scènes visuelles"](http://www.gdr-isis.fr/index.php?page=compte-rendu&idreunion=446) meeting. Slides are available [here](https://github.com/CorentinKervadec/corentinkervadec.github.io/blob/master/slides/GdR_ISIS___Roses_Reasoning__slides_Kervadec_042021.pdf).
@@ -33,6 +35,25 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 # Publications
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+                  <tbody>     
+                    <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2106.05597"> Supervising the Transfer of Reasoning Patterns in VQA</a></p></b>
+                    <p align="center"><img src="progqa/fig2_v4.png" alt="blind-date" width="80%">
+                     <p>
+                            <br>
+                            <strong>Corentin Kervadec*</strong>,
+                            <a href="http://liris.cnrs.fr/christian.wolf/">Christian Wolf*</a>,
+                            <a href="https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl">Grigory Antipov</a>,
+                            <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
+                            <a href="https://scholar.google.fr/citations?user=KOXeslUAAAAJ&hl">Madiha Nadri</a>,
+                            <br>
+                            <em>Arxiv</em>, 2021 &nbsp;
+                            <br>
+                            <a href="https://arxiv.org/abs/2106.05597.pdf">PDF</a>
+                            /
+                            <a href="https://arxiv.org/abs/2106.05597">Arxiv</a>
+                        </p>
+                        <p>  We propose a method for knowledge transfer in VQA based on a regularization term in our loss function, supervising the sequence of required reasoning operations. We provide a theoretical analysis based on PAC-learning, showing that such program prediction can lead to decreased sample complexity under mild hypotheses.
+                        </p>
                  <tbody>     
                     <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2104.00926"> VisQA: X-raying Vision and Language Reasoning in Transformers</a></p></b>
                     <p align="center"><img src="visqa/visqa.png" alt="blind-date" width="80%">
