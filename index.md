@@ -55,7 +55,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             /
                             <a href="https://visqa.liris.cnrs.fr/">Online Demo!</a>
                         </p>
-                        <p>  We introduce VisQA, a visual analytics tool that explores the question of reasoning vs. bias exploitation in Visual Question Answering systems. Try our interactive tool [here](https://visqa.liris.cnrs.fr/)!
+                        <p>  We introduce VisQA, a visual analytics tool that explores the question of reasoning vs. bias exploitation in Visual Question Answering systems. Try our interactive tool <a href="https://visqa.liris.cnrs.fr/">here</a>!
                         </p>
                 <tbody>     
                     <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2104.03656"> How Transferable are Reasoning Patterns in VQA?</a></p></b>
