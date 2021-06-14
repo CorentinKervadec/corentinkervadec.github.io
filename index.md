@@ -48,7 +48,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>Arxiv</em>, 2021 &nbsp;
                             <br>
-                            <a href="https://arxiv.org/abs/2106.05597.pdf">PDF</a>
+                            <a href="https://arxiv.org/pdf/2106.05597.pdf">PDF</a>
                             /
                             <a href="https://arxiv.org/abs/2106.05597">Arxiv</a>
                         </p>
@@ -68,7 +68,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
                             <br>
                             <em>Arxiv</em>, 2021 &nbsp;
                             <br>
-                            <a href="https://arxiv.org/abs/2104.00926.pdf">PDF</a>
+                            <a href="https://arxiv.org/pdf/2104.00926.pdf">PDF</a>
                             /
                             <a href="https://arxiv.org/abs/2104.00926">Arxiv</a>
                             /
