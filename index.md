@@ -12,6 +12,8 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 * June 2021: New paper on Arxiv: [Supervising the Transfer of Reasoning Patterns in VQA](https://arxiv.org/abs/2106.05597)!
 
+* May 2021: I was invited to give a talk about biases and reasoning in VQA at ["Devil is in the Deeptails"](https://project.inria.fr/ml3ri/dissemination-and-communication/deeptails/). [slides](https://project.inria.fr/ml3ri/files/2021/06/slides-corentin.pdf) [video](https://www.youtube.com/watch?v=i8BTiR8rs5Q).
+
 * April 2021: New paper on Arxiv: [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)!
 
 * April 2021: I gave a talk about VQA and visual reasoning at the GdR ISIS ["Explicabilité et Interprétabilité des méthodes d'Intelligence Artificielle pour la classification et compréhension des scènes visuelles"](http://www.gdr-isis.fr/index.php?page=compte-rendu&idreunion=446) meeting. Slides are available [here](https://github.com/CorentinKervadec/corentinkervadec.github.io/blob/master/slides/GdR_ISIS___Roses_Reasoning__slides_Kervadec_042021.pdf).
