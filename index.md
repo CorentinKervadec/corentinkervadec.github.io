@@ -12,7 +12,7 @@ My work focuses on Deep Learning applied to Vision and Language, with a special 
 
 * June 2021: New paper on Arxiv: [Supervising the Transfer of Reasoning Patterns in VQA](https://arxiv.org/abs/2106.05597)!
 
-* May 2021: I was invited to give a talk about biases and reasoning in VQA at ["Devil is in the Deeptails"](https://project.inria.fr/ml3ri/dissemination-and-communication/deeptails/). [slides](https://project.inria.fr/ml3ri/files/2021/06/slides-corentin.pdf) [video](https://www.youtube.com/watch?v=i8BTiR8rs5Q).
+* May 2021: I was invited to give a talk about biases and reasoning in VQA at ["Devil is in the Deeptails"](https://project.inria.fr/ml3ri/dissemination-and-communication/deeptails/) ([slides](https://project.inria.fr/ml3ri/files/2021/06/slides-corentin.pdf) and [video](https://www.youtube.com/watch?v=i8BTiR8rs5Q)).
 
 * April 2021: New paper on Arxiv: [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)!
 
