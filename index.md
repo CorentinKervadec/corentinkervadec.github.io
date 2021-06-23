@@ -31,9 +31,9 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 :scroll: *May 2019*: One paper accepted at [FG2019](https://fg2019.org/)! ["The Many Variations of Emotion."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560)
 
-:scroll: *July 2018*: One paper accepted at the IAHFAR wotkshop hosted at [BMVC18](http://bmvc2018.org/index.html)! ["CAKE: Compact and Accurate K-dimensional representation of Emotion.](http://bmvc2018.org/contents/workshops/iahfar2018/0037.pdf)
-
 :man_student: *October 2018*: Sarting my PhD at INSA Lyon & Orange Labs under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl).
+
+:scroll: *July 2018*: One paper accepted at the IAHFAR wotkshop hosted at [BMVC18](http://bmvc2018.org/index.html)! ["CAKE: Compact and Accurate K-dimensional representation of Emotion.](http://bmvc2018.org/contents/workshops/iahfar2018/0037.pdf)
 
 :3rd_place_medal: *June 2018*: Rank 3th at the [Emotion in the Wild 2018 challenge](https://sites.google.com/view/emotiw2018) hosted at [ICMI18](https://icmi.acm.org/2018/)! ["An Occam's Razor View on Learning Audiovisual Emotion Recognition with Small Training Sets."](https://dl.acm.org/doi/pdf/10.1145/3242969.3264980)  
 
