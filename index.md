@@ -13,7 +13,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 # News
 
 
-:man_teacher: *June 2021*: I presented a poster about biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE)!
+:man_teacher: *June 2021*: I presented a poster about biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE) and the [poster](posters/biases_reasoning_vqa.pdf)!
 
 :scroll: *June 2021*: New paper on Arxiv: [Supervising the Transfer of Reasoning Patterns in VQA](https://arxiv.org/abs/2106.05597)!
 
@@ -103,6 +103,10 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
                             /
                             <a href="https://arxiv.org/abs/2104.03656">Arxiv</a>
                             /
+                            <a href="https://youtu.be/fN1m7b6u3-E">Video</a>
+                            /
+                            <a href="posters/poster_reasoning_v2.pdf">Poster</a>
+                            /
                             <a href="https://reasoningpatterns.github.io/">Online Demo!</a>
                         </p>
                         <p>  Noise and uncertainties in visual inputs are the main bottleneck in VQA, preventing successful learning of reasoning capacities. In a deep analysis, we show that oracle models trained on noiseless visual data, tend to depend significantly less on bias exploitation (<a href="https://reasoningpatterns.github.io/">checkout our interactive tool</a>). In this, paper we demonstrate the feasability and the effectiveness of transfering learned reasoning patterns from oracle to real data based models.
@@ -126,6 +130,10 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
                             <a href="https://github.com/gqa-ood/GQA-OOD/tree/master/code">Code</a>
                             /
                             <a href="https://github.com/gqa-ood/GQA-OOD">Benchmark</a>
+                            /
+                            <a href="https://youtu.be/TAPS715WN7o">Video</a>
+                            /
+                            <a href="posters/poster_roses_v2.pdf">Poster</a>
                         </p>
                         <p>  We propose <a href="https://github.com/gqa-ood/GQA-OOD">GQA-OOD</a>, a new benchmark to evaluate VQA in out-of-distribution settings by reorganizing the GQA dataset, taylored for each sample (question group), targeting research in bias reduction in VQA.
                         </p>
