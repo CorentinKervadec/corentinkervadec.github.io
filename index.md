@@ -8,7 +8,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 🧠 My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
 
-📢 **I am looking for postdoc in ML. I would enjoy working on shortcut learning and/or reasoning models. Please, feel free to contact me ([CV](cv_kervadec_corentin_06_2021.pdf)).** 
+📢 **I am looking for a postdoc in ML. I would enjoy working on shortcut learning and/or reasoning models. Please, feel free to contact me ([CV](cv_kervadec_corentin_06_2021.pdf)).** 
 
 # News
 
