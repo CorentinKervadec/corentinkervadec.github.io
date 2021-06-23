@@ -13,7 +13,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 # News
 
 
-:man_teacher: *June 2021*: I presented my work on biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE)!
+:man_teacher: *June 2021*: I presented a poster about biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE)!
 
 :scroll: *June 2021*: New paper on Arxiv: [Supervising the Transfer of Reasoning Patterns in VQA](https://arxiv.org/abs/2106.05597)!
 
