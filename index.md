@@ -12,7 +12,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 # News
 
-:scroll: *July 2021*: 1 paper accepted at [VIS2021](http://ieeevis.org/year/2021/welcome)! [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)
+:scroll: *July 2021*: 1 paper accepted at [IEEE VIS2021](http://ieeevis.org/year/2021/welcome)! [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)
 
 :man_teacher: *June 2021*: I presented a poster about biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE) and the [poster](posters/biases_reasoning_vqa.pdf)!
 
@@ -28,7 +28,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 :scroll: *January 2020*: One paper accepted at [ECAI20](http://ecai2020.eu/)! ["Weak Supervision helps Emergence of Word-Object Alignment and improves Vision-Language Tasks."](https://arxiv.org/pdf/1912.03063.pdf)
 
-:scroll: *May 2019*: One paper accepted at [FG2019](https://fg2019.org/)! ["The Many Variations of Emotion."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560)
+:scroll: *May 2019*: One paper accepted at [IEEE FG2019](https://fg2019.org/)! ["The Many Variations of Emotion."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560)
 
 :man_student: *October 2018*: Sarting my PhD at INSA Lyon & Orange Labs under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl).
 
@@ -191,7 +191,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
                             Stéphane Pateux,
                             <a href="https://frederic-jurie.github.io/">Frederic Jurie</a>
                             <br>
-                            <em>FG</em>, 2019 &nbsp;
+                            <em>IEEE FG</em>, 2019 &nbsp;
                             <br>
                             <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756560&tag=1">PDF</a>
                             /
