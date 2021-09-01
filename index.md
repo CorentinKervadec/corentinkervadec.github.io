@@ -12,6 +12,8 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 # News
 
+🥇 *September 2021*: I have been selected as an outstanding reviewer for ICCV'21 (top 5% students)!
+
 :scroll: *July 2021*: 1 paper accepted at [IEEE VIS2021](http://ieeevis.org/year/2021/welcome)! [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)
 
 :man_teacher: *June 2021*: I presented a poster about biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE) and the [poster](posters/biases_reasoning_vqa.pdf)!
