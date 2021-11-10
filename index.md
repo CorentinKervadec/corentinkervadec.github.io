@@ -12,13 +12,13 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 # News
 
+:scroll: *September 2021*: 1 paper accepted at [NeurIPS2021](https://neurips.cc/)! [Supervising the Transfer of Reasoning Patterns in VQA](https://openreview.net/forum?id=kqYiS7HEWfZ)!
+
 🥇 *September 2021*: I have been selected as an outstanding reviewer for ICCV'21 (top 5% students)!
 
 :scroll: *July 2021*: 1 paper accepted at [IEEE VIS2021](http://ieeevis.org/year/2021/welcome)! [VisQA: X-raying Vision and Language Reasoning in Transformers](https://arxiv.org/abs/2104.00926)
 
 :man_teacher: *June 2021*: I presented a poster about biases and reasoning at the [VQA workshop](https://visualqa.org/workshop.html) at CVPR'21. Watch the [video](https://youtu.be/ABY2InY-RaE) and the [poster](posters/biases_reasoning_vqa.pdf)!
-
-:scroll: *June 2021*: New paper on Arxiv: [Supervising the Transfer of Reasoning Patterns in VQA](https://arxiv.org/abs/2106.05597)!
 
 :man_teacher: *May 2021*: I was invited to give a talk about biases and reasoning in VQA at ["Devil is in the Deeptails"](https://project.inria.fr/ml3ri/dissemination-and-communication/deeptails/) ([slides](https://project.inria.fr/ml3ri/files/2021/06/slides-corentin.pdf) and [video](https://www.youtube.com/watch?v=i8BTiR8rs5Q)).
 
@@ -44,7 +44,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                   <tbody>     
-                    <b><p style="font-size:18px;"><a href="https://arxiv.org/abs/2106.05597"> Supervising the Transfer of Reasoning Patterns in VQA</a></p></b>
+                    <b><p style="font-size:18px;"><a href="https://openreview.net/forum?id=kqYiS7HEWfZ"> Supervising the Transfer of Reasoning Patterns in VQA</a></p></b>
                     <p align="center"><img src="progqa/fig2_v4.png" alt="blind-date" width="80%">
                      <p>
                             <br>
@@ -54,11 +54,11 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
                             <a href="https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl">Moez Baccouche</a>,
                             <a href="https://scholar.google.fr/citations?user=KOXeslUAAAAJ&hl">Madiha Nadri</a>,
                             <br>
-                            <em>Arxiv</em>, 2021 &nbsp;
+                            <em>NeurIPS</em>, 2021 &nbsp;
                             <br>
-                            <a href="https://arxiv.org/pdf/2106.05597.pdf">PDF</a>
+                            <a href="https://openreview.net/pdf?id=kqYiS7HEWfZ">PDF</a>
                             /
-                            <a href="https://arxiv.org/abs/2106.05597">Arxiv</a>
+                            <a href="https://openreview.net/forum?id=kqYiS7HEWfZ">OpenReview</a>
                         </p>
                         <p>  We propose a method for knowledge transfer in VQA based on a regularization term in our loss function, supervising the sequence of required reasoning operations. We provide a theoretical analysis based on PAC-learning, showing that such program prediction can lead to decreased sample complexity under mild hypotheses.
                         </p>
