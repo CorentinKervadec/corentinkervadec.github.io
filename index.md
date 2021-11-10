@@ -12,7 +12,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 # News
 
-:scroll: *September 2021*: 1 paper accepted at [NeurIPS2021](https://neurips.cc/)! [Supervising the Transfer of Reasoning Patterns in VQA](https://openreview.net/forum?id=kqYiS7HEWfZ)!
+:scroll: *September 2021*: 1 paper accepted at [NeurIPS2021](https://neurips.cc/)! [Supervising the Transfer of Reasoning Patterns in VQA](https://openreview.net/forum?id=kqYiS7HEWfZ)
 
 🥇 *September 2021*: I have been selected as an outstanding reviewer for ICCV'21 (top 5% students)!
 
