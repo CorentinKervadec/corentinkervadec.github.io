@@ -51,6 +51,19 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
  
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                   <tbody>     
+                    <b><p style="font-size:18px;"><a href="https://tel.archives-ouvertes.fr/tel-03584234v2/document"> Bias and Reasoning in Visual Question Answering</a></p></b>
+                    <p align="center"><img src="progqa/fig2_v4.png" alt="blind-date" width="80%">
+                     <p>
+                            <br>
+                            <strong>Corentin Kervadec*</strong>,
+                            <br>
+                            <em>PhD, INSA Lyon</em>, 2021 &nbsp;
+                            <br>
+                            <a href="https://tel.archives-ouvertes.fr/tel-03584234v2/document">PDF</a>
+                        </p>
+                        <p> Despite impressive improvement made by deep learning approaches, VQA models are notorious for their tendency to rely on dataset biases. In thesis, we adress the VQA task through the prism of biases and reasoning, following the <em>motto</em>: evaluate, analyse, and improve.
+                        </p>
+                  <tbody>     
                     <b><p style="font-size:18px;"><a href="https://openreview.net/forum?id=kqYiS7HEWfZ"> Supervising the Transfer of Reasoning Patterns in VQA</a></p></b>
                     <p align="center"><img src="progqa/fig2_v4.png" alt="blind-date" width="80%">
                      <p>
