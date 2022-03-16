@@ -52,7 +52,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
                   <tbody>     
                     <b><p style="font-size:18px;"><a href="https://tel.archives-ouvertes.fr/tel-03584234v2/document"> Bias and Reasoning in Visual Question Answering</a></p></b>
-                    <p align="center"><img src="<thesis/Bias and Reasoning in Visual Question Answering_first.pdf>" alt="blind-date" width="80%">
+                    <p align="center"><img src="thesis/first.PNG" alt="blind-date" width="80%">
                      <p>
                             <br>
                             <strong>Corentin Kervadec*</strong>,
