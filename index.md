@@ -8,7 +8,7 @@ layout: default
 
 My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.--->
 
-🧠 My thesis is titled *Biases and Reasoning in Visual Question Answering* and focus on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
+🧠 My thesis is titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document) and focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
 
 <!---📢 **I am looking for a postdoc in ML. I would enjoy working on shortcut learning and/or reasoning models. Please, feel free to contact me ([CV](cv_kervadec_corentin_06_2021.pdf)).** --->
 
@@ -17,7 +17,9 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 # News
 
-:scroll: *September 2021*: 1 paper accepted at [NeurIPS2021](https://neurips.cc/)! [Supervising the Transfer of Reasoning Patterns in VQA](https://openreview.net/forum?id=kqYiS7HEWfZ)
+👨‍🎓 *December 2021*, I successfully defended my PhD titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document)!
+
+📜 *September 2021*: 1 paper accepted at [NeurIPS2021](https://neurips.cc/)! [Supervising the Transfer of Reasoning Patterns in VQA](https://openreview.net/forum?id=kqYiS7HEWfZ)
 
 🥇 *September 2021*: I have been selected as an outstanding reviewer for ICCV'21 (top 5% students)!
 
