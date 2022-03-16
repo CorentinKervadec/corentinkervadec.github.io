@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 title: Corentin Kervadec
-description: PhD Student @ INSA Lyon & Orange.
-interest: I work on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and VQA.
+description: AI researcher @ Orange Innovation.
+interest: I work on NLP x Neurosciences. My thesis focused on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and VQA.
 logo: pic2.png
 twitter: https://twitter.com/CorentK
-mail: mailto:corentin.kervadec@orange.com
+mail: mailto:corentin.kervadec@wanadoo.fr
 scholar: https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl
 cv: cv_kervadec_corentin_06_2021.pdf 
 plugins:
