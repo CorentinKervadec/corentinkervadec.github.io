@@ -55,13 +55,13 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
                     <p align="center"><img src="thesis/first.PNG" alt="blind-date" width="80%">
                      <p>
                             <br>
-                            <strong>Corentin Kervadec*</strong>,
+                            <strong>Corentin Kervadec</strong>,
                             <br>
                             <em>PhD, INSA Lyon</em>, 2021 &nbsp;
                             <br>
                             <a href="https://tel.archives-ouvertes.fr/tel-03584234v2/document">PDF</a>
                         </p>
-                        <p> Despite impressive improvement made by deep learning approaches, VQA models are notorious for their tendency to rely on dataset biases. In thesis, we adress the VQA task through the prism of biases and reasoning, following the <em>motto</em>: evaluate, analyse, and improve.
+                        <p> Despite impressive improvement made by deep learning approaches, VQA models are notorious for their tendency to rely on dataset biases. In this thesis, we adress the VQA task through the prism of biases and reasoning, following the <em>motto</em>: evaluate, analyse, and improve.
                         </p>
                   <tbody>     
                     <b><p style="font-size:18px;"><a href="https://openreview.net/forum?id=kqYiS7HEWfZ"> Supervising the Transfer of Reasoning Patterns in VQA</a></p></b>
