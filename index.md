@@ -2,9 +2,11 @@
 layout: default
 ---
 
-👋 I am a PhD candidate at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
+👋 I defended my PhD on *Biases and Reasoning in Visual Question Answering* in December 2021, under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) at Orange Labs.
 
-My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.
+<!---👋 I am a PhD candidate at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
+
+My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.--->
 
 🧠 My work focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
 
