@@ -17,7 +17,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 
 # News
 
-👨‍🎓 *December 2021*, I successfully defended my PhD titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document)!
+👨‍🎓 *December 2021*: I successfully defended my PhD titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document)!
 
 📜 *September 2021*: 1 paper accepted at [NeurIPS2021](https://neurips.cc/)! [Supervising the Transfer of Reasoning Patterns in VQA](https://openreview.net/forum?id=kqYiS7HEWfZ)
 
