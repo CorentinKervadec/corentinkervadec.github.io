@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 title: Corentin Kervadec
-description: AI researcher @ Orange Innovation.
-interest: I work on NLP x Neurosciences. My thesis focused on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and VQA.
-logo: pic_3.jpg
+description: Postdoctoral researcher @ UPF || PhD in Machine Learning.
+interest: Interested in improving our understanding of how artificial networks work.
+logo: pic4.png
 twitter: https://twitter.com/CorentK
-mail: mailto:corentin.kervadec@wanadoo.fr
+mail: mailto:corentin.kervadec@gmail.com
 scholar: https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl
 cv: cv_Kervadec.pdf 
 plugins:
