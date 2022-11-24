@@ -2,20 +2,26 @@
 layout: default
 ---
 
-👨‍🎓 I defended my PhD in December 2021, under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) at Orange Labs.
+👽 I am a postdoctoral members of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I'm conducting research on unnatural language processing, trying to figuring out how artificial networks share information.
+
+👨‍🎓 Previsously, I defended my PhD in December 2021, under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) at Orange Labs (Rennes, France).
 
 <!---👋 I am a PhD candidate at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
 
 My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.--->
 
-🧠 My thesis is titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document) and focuses on Deep Learning applied to Vision and Language, with a special interest on Visual Reasoning and Visual Question Answering (VQA).
+🧠 My PhD thesis is titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document) and focuses on Deep Learning applied to Vision and Language. I investigated how decisions made by a neural network trained on the Visual Question Answering (VQA) task are impacted by biases found in the training data.
 
 <!---📢 **I am looking for a postdoc in ML. I would enjoy working on shortcut learning and/or reasoning models. Please, feel free to contact me ([CV](cv_kervadec_corentin_06_2021.pdf)).** --->
 
-🍊 I am currently conducting research on NLP x Neurosciences at Orange Innovation.
+<!-- 🍊 I am currently conducting research on NLP x Neurosciences at Orange Innovation. -->
 
 
 # News
+
+👽 *November 2022*: Sarting a postdoc on the [ALiEN](https://marcobaroni.org/alien/) project in [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain).
+
+🥇 *October 2022*: I have been selected as an outstanding reviewer for ECCV'22 !
 
 🥇 *May 2022*: I have been selected as an outstanding reviewer for CVPR'22 !
 
