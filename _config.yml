@@ -5,7 +5,7 @@ interest: Artificial Intelligence, Large Language Models.
 logo: pic4.png
 mail: mailto:corentin.kervadec@gmail.com
 scholar: https://scholar.google.fr/citations?user=Rx507eQAAAAJ&hl
-cv: cv_Kervadec.pdf 
+cv: cv.md 
 plugins:
   - jemoji
 
