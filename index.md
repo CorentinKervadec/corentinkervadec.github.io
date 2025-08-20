@@ -8,12 +8,6 @@ layout: default
 Welcome to my webpage. I am a postdoc researcher in the Department of Linguistics at Pompeu Fabra University, within the [COLT](https://www.upf.edu/web/colt) lab. I study artificial intelligence, and in particular Large Language Models (LLMs). 
 
 ---
-#### Quick Links
-
-* [Github](https://github.com/CorentinKervadec)
-* [Google Scholar](https://scholar.google.com/citations?user=Rx507eQAAAAJ&hl)
-
-#### Short CV
 
 * **[2022-Now]** Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on LLM Interpretability.
 
