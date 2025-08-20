@@ -28,7 +28,7 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
 <!-- 🍊 I am currently conducting research on NLP x Neurosciences at Orange Innovation. -->
 
 
-# News
+<!--# News
 
 👽 *November 2022*: Sarting a postdoc on the [ALiEN](https://marcobaroni.org/alien/) project in [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain).
 
@@ -282,3 +282,4 @@ My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/c
                         <p>  
                         </p>   
                 <tbody>
+-->
