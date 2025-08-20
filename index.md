@@ -3,9 +3,11 @@ layout: default
 ---
 
 ### Corentin Kervadec
-#### Researcher in LLM Interpretability
+#### Researcher in Artificial Intelligence
 
 ---
+
+Welcome to my webpage. I am a postdoc researcher in the Department of Linguistics at Pompeu Fabra University, within the [COLT](https://www.upf.edu/web/colt) lab. I study artificial intelligence, and in particular Large Language Models (LLMs). 
 
 * **[2022-Now]** Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on Large Language Model Interpretability.
 
