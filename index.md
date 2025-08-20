@@ -10,13 +10,13 @@ I study artificial intelligence, and in particular Large Language Models (LLMs).
 
 ---
 
-*2022-Now* Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on LLM Interpretability.
+*2022-Now* &emsp; Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on LLM Interpretability.
 
-*2021-2022* NLP Research Scientist, Orange Labs.
+*2021-2022* &emsp; NLP Research Scientist, Orange Labs.
 
-*2018-2021* PhD, Orange Labs and [INSA Lyon](https://www.insa-lyon.fr/) (France). Thesis: *"Bias and Reasoning in Visual Question Answering."* Under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl).
+*2018-2021* &emsp; PhD, Orange Labs and [INSA Lyon](https://www.insa-lyon.fr/) (France). Thesis: *"Bias and Reasoning in Visual Question Answering."* Under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl).
 
-*2013-2018* M.Eng in Electronics & Computer Engineering, INSA Engineering School (Rennes, France). 
+*2013-2018* &emsp; M.Eng in Electronics & Computer Engineering, INSA Engineering School (Rennes, France). 
 
 <!---👋 I am a PhD candidate at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
 
