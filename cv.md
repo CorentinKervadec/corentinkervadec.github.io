@@ -1,3 +1,8 @@
+---
+layout: default
+title: My CV
+---
+
 # Education
 
 * 2021: PhD, Université de Lyon, France
