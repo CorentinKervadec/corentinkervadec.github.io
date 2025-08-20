@@ -2,15 +2,22 @@
 layout: default
 ---
 
-👽 I am a postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on unnatural language processing, trying to understand how artificial networks share information.
+# Short CV
 
-👨‍🎓 Previously, I defended my PhD in December 2021, under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) at Orange Labs (Rennes, France).
+[2022-now] Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on Large Language Model Interpretability.
+
+[2021-2022] Research scientist at Orange Lab.
+
+[2018-2021] I defended my PhD in December 2021, under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) at Orange Labs (Rennes, France). My PhD thesis is titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document) and focuses on Deep Learning applied to Vision and Language. I investigated how decisions made by a neural network trained on the Visual Question Answering (VQA) task are impacted by biases found in the training data.
+
+[2013-2018] INSA Engineering School (Rennes, France). Specialty: Electronics & Computer Engineering.
 
 <!---👋 I am a PhD candidate at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
 
 My thesis is also co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl) from Orange Labs.--->
 
-🧠 My PhD thesis is titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document) and focuses on Deep Learning applied to Vision and Language. I investigated how decisions made by a neural network trained on the Visual Question Answering (VQA) task are impacted by biases found in the training data.
+
+<!---🧠 My PhD thesis is titled [*Bias and Reasoning in Visual Question Answering*](https://tel.archives-ouvertes.fr/tel-03584234v2/document) and focuses on Deep Learning applied to Vision and Language. I investigated how decisions made by a neural network trained on the Visual Question Answering (VQA) task are impacted by biases found in the training data.--->
 
 <!---📢 **I am looking for a postdoc in ML. I would enjoy working on shortcut learning and/or reasoning models. Please, feel free to contact me ([CV](cv_kervadec_corentin_06_2021.pdf)).** --->
 
