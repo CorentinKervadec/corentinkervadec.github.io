@@ -7,14 +7,15 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <style>
+    <<style>
       .wrapper {
           display: flex;
           flex-direction: row-reverse;
+          gap: 50px; /* This creates a 50px gap between the two columns */
       }
       header {
-          margin-left: 50px; /* Adjust this value for desired spacing */
-          margin-right: 0;
+          flex-basis: 300px; /* Gives the header a fixed width */
+          flex-shrink: 0; /* Prevents the header from shrinking */
       }
     </style>
   </head>
