@@ -9,9 +9,9 @@ layout: default
 
 Welcome to my webpage. I am a postdoc researcher in the Department of Linguistics at Pompeu Fabra University, within the [COLT](https://www.upf.edu/web/colt) lab. I study artificial intelligence, and in particular Large Language Models (LLMs). 
 
-* **[2022-Now]** Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on Large Language Model Interpretability.
+* **[2022-Now]** Postdoctoral member of the [ALiEN](https://marcobaroni.org/alien/) research program lead by Prof. Marco Baroni in the [COLT](https://www.upf.edu/web/colt) group at UPF (Barcelona, Spain). I conduct research on LLM Interpretability.
 
-* **[2021-2022]** Research Scientist, Orange Labs.
+* **[2021-2022]** NLP Research Scientist, Orange Labs.
 
 * **[2018-2021]** PhD, Orange Labs and [INSA Lyon](https://www.insa-lyon.fr/) (France). Thesis: *"Bias and Reasoning in Visual Question Answering."* Under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl).
 
