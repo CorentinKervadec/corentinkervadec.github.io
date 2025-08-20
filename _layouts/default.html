@@ -7,9 +7,16 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    <style>
+      .wrapper {
+          display: flex;
+          flex-direction: row-reverse;
+      }
+      header {
+          margin-left: 50px; /* Adjust this value for desired spacing */
+          margin-right: 0;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
