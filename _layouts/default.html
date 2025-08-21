@@ -7,31 +7,27 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
-      /* Reset potential conflicting styles from the theme */
+      /* Override the theme's default styles with high specificity */
       .wrapper {
           display: flex;
           flex-direction: row-reverse;
           gap: 5%;
           max-width: 960px;
           margin: 0 auto;
-          /* Ensure floats are cleared */
-          overflow: hidden; 
       }
-    
-      /* Force the children to be flex items and control their width */
-      .wrapper > * {
-          box-sizing: border-box;
-          float: none; /* Remove any float properties */
+      .wrapper > header, .wrapper > section {
+          /* Force a reset on common conflicting properties */
+          float: none;
+          position: static;
+          margin: 0;
+          padding: 0;
       }
-    
       section {
           flex: 0 0 60%;
       }
-    
       header {
           flex: 0 0 30%;
       }
-    
       /* Media query for responsiveness */
       @media (max-width: 768px) {
           .wrapper {
@@ -40,7 +36,7 @@
           }
           header, section {
               flex-basis: auto;
-              flex-grow: 1; /* Allow them to grow to fill space */
+              flex-grow: 1;
           }
       }
     </style>
