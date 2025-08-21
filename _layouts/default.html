@@ -4,46 +4,36 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
       .wrapper {
-          display: flex;
-/*           flex-direction: row-reverse; */
-          gap: 5%; /* Use a percentage for a responsive gap */
-          max-width: 960px; /* Optional: Sets a max width for large screens */
-          margin: 0 auto; /* Optional: Centers the content */
+        display: flex;
+        gap: 5%;
+        max-width: 960px;
+        margin: 0 auto;
       }
-
       section {
-          flex: 0 0 60%; /* Set to 60% width */
+        flex: 0 0 60%;
       }
-
       header {
-          flex: 0 0 30%; /* Allows the section to fill the remaining space */
+        flex: 0 0 30%;
       }
-    
-
-    
-      /* Optional: Media query for small screens */
       @media (max-width: 768px) {
-          .wrapper {
-              flex-direction: column; /* Stacks the content on top of each other */
-              gap: 20px;
-          }
-          header {
-              flex-basis: auto; /* Reverts to automatic sizing */
-          }
+        .wrapper {
+          flex-direction: column;
+          gap: 20px;
+        }
+        header, section {
+          flex-basis: auto;
+        }
       }
     </style>
   </head>
   <body>
     <div class="wrapper">
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
