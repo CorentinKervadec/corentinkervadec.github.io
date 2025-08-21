@@ -2,7 +2,9 @@
 layout: default
 ---
 
-👋 Welcome to my webpage 
+# Corentin Kervadec's Homepage
+
+👋 Welcome to my homepage 
 
 I am a postdoc researcher in the Department of Linguistics at Pompeu Fabra University, within the [COLT](https://www.upf.edu/web/colt) lab. 
 
