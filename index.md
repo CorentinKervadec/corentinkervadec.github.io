@@ -18,7 +18,7 @@ I study artificial intelligence, and in particular Large Language Models (LLMs).
 
 *2018-2021* &emsp; PhD, Orange Labs and [INSA Lyon](https://www.insa-lyon.fr/) (France). Thesis: *"Bias and Reasoning in Visual Question Answering."* Under the direction of [Christian Wolf](https://chriswolfvision.github.io/www/) and co-supervised by [Grigory Antipov](https://scholar.google.fr/citations?user=CoOz8K0AAAAJ&hl) and [Moez Baccouche](https://scholar.google.fr/citations?user=olfpe-kAAAAJ&hl).
 
-*2013-2018* &emsp; M.Eng in Electronics & Computer Engineering, INSA Engineering School (Rennes, France). 
+*2015-2018* &emsp; M.Eng in Electronics & Computer Engineering, INSA Engineering School (Rennes, France). 
 
 <!---👋 I am a PhD candidate at [INSA Lyon](https://www.insa-lyon.fr/) financed by [Orange Labs](https://www.orange.com/fr/accueil) in the [Imagine team (LIRIS)](https://liris.cnrs.fr/equipe/imagine) under the direction of [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/).
 
