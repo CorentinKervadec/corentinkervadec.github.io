@@ -7,15 +7,32 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <<style>
+    <style>
       .wrapper {
           display: flex;
           flex-direction: row-reverse;
-          gap: 50px; /* This creates a 50px gap between the two columns */
+          gap: 5%; /* Use a percentage for a responsive gap */
+          max-width: 960px; /* Optional: Sets a max width for large screens */
+          margin: 0 auto; /* Optional: Centers the content */
       }
+    
       header {
-          flex-basis: 300px; /* Gives the header a fixed width */
-          flex-shrink: 0; /* Prevents the header from shrinking */
+          flex: 0 0 30%; /* Sets the header to a fixed 30% width */
+      }
+    
+      section {
+          flex: 1; /* Allows the section to fill the remaining space */
+      }
+    
+      /* Optional: Media query for small screens */
+      @media (max-width: 768px) {
+          .wrapper {
+              flex-direction: column; /* Stacks the content on top of each other */
+              gap: 20px;
+          }
+          header {
+              flex-basis: auto; /* Reverts to automatic sizing */
+          }
       }
     </style>
   </head>
