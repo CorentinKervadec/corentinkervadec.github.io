@@ -7,26 +7,41 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
+      /* Reset potential conflicting styles from the theme */
       .wrapper {
-        display: flex;
-        gap: 5%;
-        max-width: 960px;
-        margin: 0 auto;
+          display: flex;
+          flex-direction: row-reverse;
+          gap: 5%;
+          max-width: 960px;
+          margin: 0 auto;
+          /* Ensure floats are cleared */
+          overflow: hidden; 
       }
+    
+      /* Force the children to be flex items and control their width */
+      .wrapper > * {
+          box-sizing: border-box;
+          float: none; /* Remove any float properties */
+      }
+    
       section {
-        flex: 0 0 60%;
+          flex: 0 0 60%;
       }
+    
       header {
-        flex: 0 0 30%;
+          flex: 0 0 30%;
       }
+    
+      /* Media query for responsiveness */
       @media (max-width: 768px) {
-        .wrapper {
-          flex-direction: column;
-          gap: 20px;
-        }
-        header, section {
-          flex-basis: auto;
-        }
+          .wrapper {
+              flex-direction: column;
+              gap: 20px;
+          }
+          header, section {
+              flex-basis: auto;
+              flex-grow: 1; /* Allow them to grow to fill space */
+          }
       }
     </style>
   </head>
