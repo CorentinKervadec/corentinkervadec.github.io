@@ -39,21 +39,13 @@ title: My CV
 
 # Publications
 
-## Articles in scientific journals
-
-### 2021
-
-Jaunet, T., Kervadec, C., Antipov, G., Baccouche, M., Vuillemot, R., and Wolf, C. (2021). VisQA: X-raying vision and language reasoning in transformers. In IEEE VIS, 2021.
-
-### 2019
-
-Ahmed, F., Kervadec, C., Le Moullec, Y., Tamberg, G., and Annus, P. (2019). Autonomous wireless sensor networks: Implementation of transient computing and energy prediction for improved node performance and link quality. The Computer Journal.
-
 ## Articles in refereed conference proceedings
 
 ### 2025
 
 Cheng, E., Doimo, D., Kervadec, C., Macocco, I., Yu L., Laio A., Baroni, M.. Emergence of a High-Dimensional Abstraction Phase in Language Transformers. In Proceedings of the 13th International Conference on Learning Representations (ICLR), 2025.
+
+Carraz Rakotonirina, N., Kervadec, C., Franzon, F., & Baroni, M. (2025). Evil twins are not that evil: Qualitative insights into machine-generated prompts. In Proceedings of the 8th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP.
 
 ### 2023
 
@@ -92,6 +84,16 @@ Kervadec, C., Jaunet, T., Antipov, G., Baccouche, M., Vuillemot, R., Wolf, C.. B
 Kervadec, C., Vielzeuf, V., Pateux, S., Lechervy, A., Jurie, F.. Cake: Compact and accurate kdimensional representation of emotion. In Image Analysis for Human Facial and Activity Recognition (BMVC workshop), 2018.
 
 Vielzeuf, V., Kervadec, C., Pateux, S., Lechervy, A., Jurie, F.. An occam’s razor view on learning audiovisual emotion recognition with small training sets. In International Conference on Multimodal Interaction (ICMI), 2018.
+
+## Articles in scientific journals
+
+### 2021
+
+Jaunet, T., Kervadec, C., Antipov, G., Baccouche, M., Vuillemot, R., and Wolf, C. (2021). VisQA: X-raying vision and language reasoning in transformers. In IEEE VIS, 2021.
+
+### 2019
+
+Ahmed, F., Kervadec, C., Le Moullec, Y., Tamberg, G., and Annus, P. (2019). Autonomous wireless sensor networks: Implementation of transient computing and energy prediction for improved node performance and link quality. The Computer Journal.
 
 # Open Resources
 
